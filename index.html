@@ -11,8 +11,8 @@
     <title>Mixed Reviews about a Mixed Designation: Khangchendzonga National Park and its UNESCO Journey | Amelia DeWolfe</title>
     <!-- load some big magic scripts  -->
     <!-- jQuery is an important framework used by many web projects  -->
-  <!--  <script src="http://code.jquery.com/jquery-2.1.4.js"></script>
--->
+    <script src="http://code.jquery.com/jquery-2.1.4.js"></script>
+
     <!-- remarkable is our markdown parser, which translates markdown into HTML -->
     <script src="https://cdn.jsdelivr.net/remarkable/1.7.1/remarkable.min.js"></script>
     <!-- Our Bootstrap theme. To use another copy the appropriate URL from  -->
@@ -38,7 +38,7 @@
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
       </nav>
-  <p> !!!!!!!!!!! </p>
+
       <!-- these next 2 divs place the main content inside a box with margins from the screen edge -->
 
       <div class="container">
@@ -51,7 +51,6 @@
           </audio>
 
           <div id="contentdiv">
-            <!-- don't bother putting anything in here -- it will get replaced by the content of index.md -->
           </div>
         </div>
       </div>
@@ -84,30 +83,39 @@
            $("#contentdiv").html(renderedcontent);
          });
 
-        // declare a function to seek to a timecode in the #media object
-        var seek = function (75) {
-        document.getElementById("media");
-        .currentTime= 75;
-        seek(75);
-      }
+         // declare a function to seek to a timecode in the #media object
+ var seek = function (timecode) {
+ document.getElementById("media").currentTime= 75;
+ };
+ timecode = 180;
+ timecode = 480;
+ timecode = 265;
+ timecode = 380;
+ timecode = 410;
+ timecode = 350;
+ timecode = 400;
+ timecode = 220;
+ timecode = 320;
+ timecode = 360;
+ timecode = 385;
+ timecode = 424;
+ timecode = 465;
+ timecode = 137;
+ timecode = 590;
+ timecode = 625;
+ timecode = 456;
+ timecode = 60;
+ timecode = 502;
+ timecode = 300;
+ timecode = 645;
+ timecode = 765
 
-
-      var seek = function (time) {
-              document.getElementById("media").currentTime= time;
-              };
-              seek(75);
-
-        var seek = document.getElementsByID("media") [75];
-        seek.currentTime = starttimeoffset;
-
-
-
-      </script>
-      <!-- This <link> element controls some style elements for the page.
-           It controls some important elements of presentation.
-           We load it after strapdown in case you want to override
-           some of the bootstrap css -->
-      <link rel="stylesheet" type="text/css" media="all"
-            href="style.css" />
-    </body>
+</script>
+<!-- This <link> element controls some style elements for the page.
+    It controls some important elements of presentation.
+    We load it after strapdown in case you want to override
+    some of the bootstrap css -->
+<link rel="stylesheet" type="text/css" media="all"
+     href="style.css" />
+</body>
 </html>
