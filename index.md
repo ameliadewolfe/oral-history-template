@@ -7,7 +7,7 @@ The following derives from an interview of founding KCC members conducted by a s
 This interview highlights a few significant aspects for discussion, namely the significance of the Sikkim landscape, the limitations/constraints placed by UNESCO on what it acknowledges as culture, what this interview constitutes for the KCC, and how the interview itself can be viewed as a source.
 
 
-**++Mt. Khangchendzonga++** [^second]
+**Mt. Khangchendzonga** [^second]
 <img src="http://www.knpsikkim.in/wp-content/gallery/photo-gallery/mt-khangchendzonga-third-highest-peak-in-the-world.jpg" />
 
 ### **The Landscape: Culture & UNESCO**
@@ -26,7 +26,7 @@ ___
 
 [^second]: *Mt-Khangchendzonga.* Photo Gallery, Khangchendzonga National Park, Sikkim. from http://www.knpsikkim.in/photo-gallery/.
 
-[^third]:<a href="currentTime" onclick="javascript:seek(180)">3:30</a>;
+[^third]:<a href="media" onclick="javascript:seek(180)">3:30</a>;
 <a href="currentTime" onclick="javascript:seek(480)">8:00</a>;
 <a href="currentTime" onclick="javascript:seek(265)">4:25</a>
 
